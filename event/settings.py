@@ -24,7 +24,7 @@ SECRET_KEY = 'yav%gc-5h4c3za9a6_d1m@9f(yl0t15kir6i-nz_91s!leln1l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['stackhackers.herokuapp.com']
+ALLOWED_HOSTS = ['demo-event-management.herokuapp.com']
 
 
 # Application definition
